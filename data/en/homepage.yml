@@ -1,0 +1,110 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Pinspired Minimal Jewelry"
+  content: "At Goyna & Pin, we cherish your individuality. Our thoughtfully curated Pinterest-inspired minimal jewelry collection is sourced from trusted artisans and brands to highlight your natural beauty and empower your confidence — because you deserve to shine every day."
+  image: "images/undraw_fall_hngs.svg"
+  button:
+    enable: true
+    label: "Explore Our Collection"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Why Our Customers Love Goyna & Pin"
+  image: "images/undraw_jewelry_39lx.svg"
+
+  # feature at the left of the image
+  left_side:
+    - title: "Timeless Minimalism"
+      icon: "tf-ion-ios-heart-outline"
+      content: "We carefully select Pinterest-inspired pieces that offer elegant simplicity and timeless style to complement every moment in your life."
+
+    - title: "Quality You Can Trust"
+      icon: "tf-ion-ios-checkmark-outline"
+      content: "Our collections feature premium stainless steel and high-quality materials sourced from reputable makers to ensure lasting shine and durability."
+
+    - title: "Affordable Elegance"
+      icon: "tf-pricetags"
+      content: "Luxury should be accessible — that’s why we offer fair prices without compromising on design or quality."
+
+  # feature at the right of the image
+  right_side:
+    - title: "Personalized Experience"
+      icon: "tf-ion-ios-people-outline"
+      content: "We guide you in finding jewelry that truly resonates with your personal style and story."
+
+    - title: "Versatile Collections"
+      icon: "tf-ion-android-options"
+      content: "From subtle everyday accents to Pinterest-worthy statement pieces, our curated collections fit seamlessly into your lifestyle."
+
+    - title: "Fast & Reliable Service"
+      icon: "tf-ion-ios-speedometer-outline"
+      content: "We value your time — that’s why we deliver your orders promptly and with care."
+
+############################# promo ############################
+promo:
+  enable: false
+  image: "images/undraw_successful-purchase_p2fz.svg"
+  title: "Jewelry That Celebrates You"
+  content:
+    "At Goyna & Pin, every piece tells a story — yours. Our commitment is to bring you Pinterest-inspired minimal jewelry that feels as special as you are, enhancing your confidence and making every day memorable."
+
+############################# About Product #######################
+about_product:
+  enable: false
+  title: "Trusted by Women Who Value Style and Substance"
+  items:
+    - image: "images/undraw_in-thought_xa50.svg"
+      title: "Curated for Your Unique Journey"
+      content:
+        "Jewelry is more than an accessory — it’s a reflection of your personality and journey. Our collections are thoughtfully sourced to celebrate your uniqueness."
+
+      button:
+        enable: false
+        label: "Discover More"
+        link: "#/"
+
+    - image: "images/undraw_stepping-up_4q3b.svg"
+      title: "Committed to Quality & Care"
+      content:
+        "We partner with trusted artisans and brands who share our values for quality and sustainability, ensuring every piece is made with respect for you and the environment."
+
+      button:
+        enable: false
+        label: "Learn More"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Shop Now"
+
+################################## Subscription ###################
+subscription:
+  enable: false
+  bg_image: "images/call-to-action.jpg"
+  title: "Join the Goyna & Pin Family"
+  content: "Subscribe to receive special offers, exclusive previews, and styling inspiration — all designed with you in mind."
+  placeholder: "Enter your email address"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Hear From Our Cherished Customers"
+  testimonial_item:
+    - name: "Tamanna Mahmuda"
+      designation: ""
+      image: "images/undraw_a-woman-avatar_ifsl.svg"
+      content: "Goyna & Pin’s jewelry makes me feel truly special. The care and quality shine through every piece, and their team always makes me feel valued."
+
+    - name: "Sadia Zaman"
+      designation: ""
+      image: "images/undraw_female-avatar_7t6k.svg"
+      content: "I’m so happy with the thoughtful designs and prompt service. It feels wonderful to support a brand that cares deeply about its customers."
+
+    - name: "Fatema Koli"
+      designation: ""
+      image: "images/undraw_cool-girl-avatar_fifz.svg"
+      content: "Every time I wear Goyna & Pin jewelry, I feel confident and appreciated. Their kindness and professionalism are unmatched."
