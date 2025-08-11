@@ -1,10 +1,10 @@
 ---
 title: "Privacy Policy"
-description: "Privacy policy for Hosen Curve Jewelry"
+description: "Privacy policy for Goyna & Pin Jewelry"
 draft: false
 ---
 
-At Hosen Curve, your privacy and trust mean everything to us. We are committed to protecting your personal information and being transparent about how we collect, use, and safeguard your data when you visit our website and shop with us.
+At Goyna & Pin, your privacy and trust mean everything to us. We are committed to protecting your personal information and being transparent about how we collect, use, and safeguard your data when you visit our website and shop with us.
 
 ### Information We Collect
 
@@ -53,4 +53,4 @@ Our website uses cookies to enhance your browsing and shopping experience. You c
 
 We may update this privacy policy occasionally to reflect changes in our practices or legal requirements. Updates will be posted here with the revised effective date.
 
-Thank you for choosing Hosen Curve. We value your trust and are dedicated to protecting your privacy every step of the way.
+Thank you for choosing Goyna & Pin. We value your trust and are dedicated to protecting your privacy every step of the way.

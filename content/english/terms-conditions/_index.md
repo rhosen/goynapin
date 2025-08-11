@@ -1,10 +1,10 @@
 ---
 title: "Terms & Conditions"
-description: "Terms and conditions for Hosen Curve jewelry"
+description: "Terms and conditions for Goyna & Pin jewelry"
 draft: false
 ---
 
-Thank you for choosing Hosen Curve for your jewelry needs. Please read the following terms and conditions carefully. Our goal is to ensure a smooth and trustworthy experience for both you as a customer and for us as your jewelry partner. If you have any questions or concerns, please email us at hosencurve@email.com, and we will do our best to resolve them fairly and promptly.
+Thank you for choosing Goyna & Pin for your jewelry needs. Please read the following terms and conditions carefully. Our goal is to ensure a smooth and trustworthy experience for both you as a customer and for us as your jewelry partner. If you have any questions or concerns, please email us at hosencurve@email.com, and we will do our best to resolve them fairly and promptly.
 
 ### Order and Delivery Policy
 ---
@@ -29,7 +29,7 @@ Thank you for choosing Hosen Curve for your jewelry needs. Please read the follo
 2. For any questions regarding product specifications, sourcing details, or order tracking, please reach out to us via email or phone.
 3. We will do our best to resolve any issues related to your order efficiently and courteously.
 
-### Why Choose Hosen Curve?
+### Why Choose Goyna & Pin?
 ---
 
 1. Curated jewelry designed to showcase your unique style.
@@ -38,4 +38,4 @@ Thank you for choosing Hosen Curve for your jewelry needs. Please read the follo
 4. Timely delivery and dedicated customer support.
 
 ---
-We look forward to helping you express your individuality with beautiful, reliable jewelry from Hosen Curve.
+We look forward to helping you express your individuality with beautiful, reliable jewelry from Goyna & Pin.
