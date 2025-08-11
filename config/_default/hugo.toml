@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://hosenpack.netlify.app/"
-title = "Hosen Curve | Celebrate Yourself"
+baseurl = "https://goynapin.netlify.app/"
+title = "Goyna & Pin | Pinspired Minimal Jewelry"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
