@@ -39,7 +39,7 @@ We respect your privacy and do not sell or rent your personal information to thi
 
 ---
 
-You have the right to access, update, or request deletion of your personal information. For any questions or to exercise your rights, please contact us at hosencurve@email.com.
+You have the right to access, update, or request deletion of your personal information. For any questions or to exercise your rights, please contact us at goynaofficial@gmail.com.
 
 ### Cookies
 
