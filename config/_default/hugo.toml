@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://goynapin.netlify.app/"
+baseurl = "https://inaa.netlify.app/"
 title = "Goyna & Pin | Pinspired Minimal Jewelry"
 theme = "vex-hugo"
 # post excert

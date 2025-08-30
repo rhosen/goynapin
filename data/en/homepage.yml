@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Pinspired Minimal Jewelry"
-  content: "At Goyna & Pin, we cherish your individuality. Our thoughtfully curated Pinterest-inspired minimal jewelry collection is sourced from trusted artisans and brands to highlight your natural beauty and empower your confidence — because you deserve to shine every day."
+  content: "At INAA, we cherish your individuality. Our thoughtfully curated Pinterest-inspired minimal jewelry collection is sourced from trusted artisans and brands to highlight your natural beauty and empower your confidence — because you deserve to shine every day."
   image: "images/undraw_fall_hngs.svg"
   button:
     enable: true
@@ -12,7 +12,7 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Why Our Customers Love Goyna & Pin"
+  title: "Why Our Customers Love INAA"
   image: "images/undraw_jewelry_39lx.svg"
 
   # feature at the left of the image
@@ -49,7 +49,7 @@ promo:
   image: "images/undraw_successful-purchase_p2fz.svg"
   title: "Jewelry That Celebrates You"
   content:
-    "At Goyna & Pin, every piece tells a story — yours. Our commitment is to bring you Pinterest-inspired minimal jewelry that feels as special as you are, enhancing your confidence and making every day memorable."
+    "At INAA, every piece tells a story — yours. Our commitment is to bring you Pinterest-inspired minimal jewelry that feels as special as you are, enhancing your confidence and making every day memorable."
 
 ############################# About Product #######################
 about_product:
@@ -85,7 +85,7 @@ products:
 subscription:
   enable: false
   bg_image: "images/call-to-action.jpg"
-  title: "Join the Goyna & Pin Family"
+  title: "Join the INAA Family"
   content: "Subscribe to receive special offers, exclusive previews, and styling inspiration — all designed with you in mind."
   placeholder: "Enter your email address"
 
@@ -97,7 +97,7 @@ testimonial:
     - name: "Tamanna Mahmuda"
       designation: ""
       image: "images/undraw_a-woman-avatar_ifsl.svg"
-      content: "Goyna & Pin’s jewelry makes me feel truly special. The care and quality shine through every piece, and their team always makes me feel valued."
+      content: "INAA’s jewelry makes me feel truly special. The care and quality shine through every piece, and their team always makes me feel valued."
 
     - name: "Sadia Zaman"
       designation: ""
@@ -107,4 +107,4 @@ testimonial:
     - name: "Fatema Koli"
       designation: ""
       image: "images/undraw_cool-girl-avatar_fifz.svg"
-      content: "Every time I wear Goyna & Pin jewelry, I feel confident and appreciated. Their kindness and professionalism are unmatched."
+      content: "Every time I wear INAA jewelry, I feel confident and appreciated. Their kindness and professionalism are unmatched."
