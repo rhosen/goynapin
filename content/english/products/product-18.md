@@ -11,7 +11,7 @@ images:
 description: "Add a delicate floral touch with the Small Plumeria Hair Claw (Single). One petite plumeria-shaped claw in six soft, vibrant colors — perfect for light holds, bangs, or layered styles."
 
 # product Price
-price: "20"
+price: "25"
 discount_price: ""
 
 # product variation
@@ -24,13 +24,13 @@ button_link: "#"
 draft: false
 ---
 
-🌸 Introducing the **Tiny Plumeria Hair Claw (Single)** — a sweet, subtle way to style your hair.
+🌸 Introducing the Tiny Plumeria Hair Claw (Single) — a sweet, subtle way to style your hair.
 
-✨ This is **one small plumeria-shaped hair claw**, designed for light styling: perfect for securing bangs, baby hairs, or small twists. Its compact size adds a **hint of floral charm** without overpowering your look.
+✨ This is one small plumeria-shaped hair claw, designed for light styling: perfect for securing bangs, baby hairs, or small twists. Its compact size adds a hint of floral charm without overpowering your look.
 
-🔹 Available in **six colors**: blue, pink, purple, yellow, orange, and white — so you can match, contrast, or collect them all.
+🎨 Available in six colors: blue, pink, purple, yellow, orange, and white — so you can match, contrast, or collect them all.
 
-🔗 Lightweight and easy to use, it’s ideal for everyday wear, school, or pairing with other claws for a curated, layered effect.
+📎 Lightweight and easy to use, it’s ideal for everyday wear, school, or pairing with other claws for a curated, layered effect.
 
 💖 A tiny detail that brings joy — great for soft, romantic styles or adding a playful accent to your hair.
 

@@ -28,7 +28,7 @@ draft: false
 
 ✨ Crafted from premium stainless steel, this necklace features a hollow heart pendant that adds an elegant touch of love to your collarbone.
 
-🔗 The minimalist aesthetic makes this necklace versatile, perfect for both casual wear and more sophisticated outfits.
+🛡️ The minimalist aesthetic makes this necklace versatile, perfect for both casual wear and more sophisticated outfits.
 
 💧 Durable, hypoallergenic, and designed for all-day comfort — no fading or irritation, just timeless beauty.
 

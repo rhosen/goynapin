@@ -26,7 +26,7 @@ draft: false
 
 🌹 Embrace quiet elegance with our 18K gold plated necklace, featuring a softly hammered rectangular frame and an etched rose design — a symbol of love and strength.
 
-🔗 Made from high-quality stainless steel, this necklace resists tarnish and is waterproof and hypoallergenic — a beautiful companion for your everyday adventures.
+🛡️ Made from high-quality stainless steel, this necklace resists tarnish and is waterproof and hypoallergenic — a beautiful companion for your everyday adventures.
 
 ✨ The detailed rose engraving on the silver-tone insert adds depth and grace, making it a standout piece whether worn alone or layered.
 
