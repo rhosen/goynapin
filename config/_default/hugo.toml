@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://inaa.netlify.app/"
-title = "INAA | Wear what feels like you"
+title = "INAA | Pinspired Jewelry"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
