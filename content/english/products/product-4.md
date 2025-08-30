@@ -1,5 +1,5 @@
 ---
-title: "PG4: 18K Gold Plated Stainless Steel Double Heart Diamond Pendant Necklace"
+title: "PG4: Double Heart Diamond Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
   - "/images/showcase/PG4/1.webp"
@@ -11,7 +11,7 @@ images:
 description: "Fall in love with this 18K gold plated Stainless steel necklace featuring a dazzling double heart pendant — a timeless, skin-friendly piece for everyday elegance."
 
 # product Price
-price: "390"
+price: "350"
 discount_price: ""
 
 # product variation

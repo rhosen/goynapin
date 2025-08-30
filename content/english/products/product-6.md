@@ -1,5 +1,5 @@
 ---
-title: "PG6: 18K Gold Plated Stainless Steel Double Heart Hollow Pendant Necklace"
+title: "PG6: Double Heart Hollow Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
   - "/images/showcase/PG6/1.webp"
@@ -11,7 +11,7 @@ images:
 description: "Embrace timeless elegance with this 18K gold plated stainless steel necklace featuring two intertwined hollow heart pendants — simple, chic, and versatile."
 
 # product Price
-price: "390"
+price: "350"
 discount_price: ""
 
 # product variation

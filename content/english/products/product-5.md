@@ -1,16 +1,15 @@
 ---
-title: "PG5: 18K Gold Plated Stainless Steel Sunflower Pearl Pendant Necklace"
+title: "PG5: Sunflower Pearl Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
-  - "/images/showcase/PG5/1.webp"
-  - "/images/showcase/PG5/2.webp"
-  - "/images/showcase/PG5/3.webp"
+  - "/images/showcase/PG5/1.jpg"
+  - "/images/showcase/PG5/2.jpg"
 
 # meta description
 description: "Shine with warmth and grace in this 18K gold plated stainless steel necklace featuring a sunflower pendant with a pearl center — sweet, elegant, and skin-safe."
 
 # product Price
-price: "390"
+price: "400"
 discount_price: ""
 
 # product variation

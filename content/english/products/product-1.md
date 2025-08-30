@@ -1,5 +1,5 @@
 ---
-title: "PG1: 18K Gold Plated Stainless Steel Tricolor  Four Leaf Clover Necklace"
+title: "PG1: Tricolor Four Leaf Clover Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
   - "/images/showcase/PG1/1.webp"
@@ -11,7 +11,7 @@ images:
 description: "Glow daily with this 18K gold plated stainless steel necklace featuring a lucky tricolor four leaf clover pendant — stylish, durable, and skin-friendly."
 
 # product Price
-price: "390"
+price: "450"
 discount_price: ""
 
 # product variation

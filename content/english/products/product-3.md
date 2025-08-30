@@ -1,5 +1,5 @@
 ---
-title: "PG3: 18K Gold Plated Stainless Steel Perfume Bottle Diamond Necklace"
+title: "PG3: Perfume Bottle Diamond Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
   - "/images/showcase/PG3/1.webp"
@@ -10,7 +10,7 @@ images:
 description: "Glow daily with this 18K gold plated Stainless steel necklace featuring a sparkling diamond-studded perfume bottle pendant — elegant, durable, and skin-friendly."
 
 # product Price
-price: "390"
+price: "350"
 discount_price: ""
 
 # product variation

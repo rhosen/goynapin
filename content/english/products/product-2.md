@@ -1,5 +1,5 @@
 ---
-title: "PG2: 18K Gold Plated Stainless Steel Necklace with Crystal Icon Pendant"
+title: "PG2: Crystal Icon Pendant Stainless Steel Necklace"
 date: 2025-08-12T00:00:00+06:00
 images: 
   - "/images/showcase/PG2/1.webp"
@@ -10,7 +10,7 @@ images:
 description: "Crafted from durable stainless steel and finished with luxurious 18K gold plating, this necklace features a sparkling crystal-studded icon pendant — elegant, hypoallergenic, and perfect for everyday wear."
 
 # product Price
-price: "390"
+price: "350"
 discount_price: ""
 
 # product variation
