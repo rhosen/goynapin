@@ -4,7 +4,7 @@ description: "Terms and conditions for INAA jewelry"
 draft: false
 ---
 
-Thank you for choosing INAA for your jewelry needs. Please read the following terms and conditions carefully. Our goal is to ensure a smooth and trustworthy experience for both you as a customer and for us as your jewelry partner. If you have any questions or concerns, please email us at goynaofficial@gmail.com, and we will do our best to resolve them fairly and promptly.
+Thank you for choosing INAA for your jewelry needs. Please read the following terms and conditions carefully. Our goal is to ensure a smooth and trustworthy experience for both you as a customer and for us as your jewelry partner. If you have any questions or concerns, please email us at hello.inaa@gmail.com, and we will do our best to resolve them fairly and promptly.
 
 ### Order and Delivery Policy
 ---
