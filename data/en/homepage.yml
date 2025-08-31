@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Pinspired Minimal Jewelry"
-  content: "At INAA, we celebrate your individuality with timeless, Pinterest-inspired pieces. Curated from trusted makers, our jewelry highlights your natural beauty and empowers your everyday confidence.”"
+  title: "Pinspired Jewelry"
+  content: "At INAA ✨, we celebrate your individuality with timeless, Pinterest-inspired pieces. Curated from trusted makers, our jewelry highlights your natural beauty and empowers your everyday confidence."
   image: "images/undraw_fall_hngs.svg"
   button:
     enable: true
